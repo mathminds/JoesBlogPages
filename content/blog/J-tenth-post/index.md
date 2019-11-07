@@ -44,6 +44,6 @@ Sitra의 공정한 데이터 경제 프로젝트가 시작된 지 거의 3 년�
 
 #####원본 저자: Jaana Sinipuro
 
-[원본 링크](https://mydata.org/2019/09/17/trust-based-data-sharing-models-at-the-core-of-modern-social-responsibility/)
+[원본링크](https://mydata.org/2019/09/17/trust-based-data-sharing-models-at-the-core-of-modern-social-responsibility/)
 
 

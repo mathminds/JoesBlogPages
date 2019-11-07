@@ -16,7 +16,7 @@ description: "여러분은 자신의 데이터에 대한 권리가 있습니다.
 
 데이터는 사회를 변화시키는 힘을 가지고 있습니다. 귀하의 데이터는 이것의 일부입니다. 왜 이 변환이 더 나은지 확인하는 데 참여해서는 안됩니까?
 
-데이터 보호는 최소한입니다. 절대적으로 중요하지만 첫 단계 일뿐입니다. 데이터가 보호되면 다음 단계는 데이터를 작동시키는 것입니다. 당신과 우리 모두를 위해 데이터가 무엇을하기를 원하십니까?
+데이터 보호는 최소한입니다. 절대적으로 중요하지만 첫 단계일 뿐입니다. 데이터가 보호되면 다음 단계는 데이터를 작동시키는 것입니다. 당신과 우리 모두를 위해 데이터가 무엇을하기를 원하십니까?
 
 ###MyData Global은 무엇이며, 무엇을 하고, 왜 합니까?
 
@@ -30,6 +30,6 @@ MyData Global은 데이터 전문가, 비즈니스, 활동가, 법률 전문가,
 ######원본 저자: Viivi Lähteenoja
 
 
-[원본 글 링크](https://medium.com/mydata/mydata-from-data-protection-to-data-empowerment-810ef4e10eb7)
+[원본링크](https://medium.com/mydata/mydata-from-data-protection-to-data-empowerment-810ef4e10eb7)
 
 

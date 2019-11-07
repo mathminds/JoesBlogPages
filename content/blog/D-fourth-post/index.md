@@ -130,5 +130,5 @@ Self-Sovereign Identity는 이러한 변화를 정의하는 유행어가되었�
 ######원본 저자:Will Abramson
 
 
-[원본 링크](https://medium.com/mydata/do-you-exist-online-8269fa4582c1)
+[원본링크](https://medium.com/mydata/do-you-exist-online-8269fa4582c1)
 

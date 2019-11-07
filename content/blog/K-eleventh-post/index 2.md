@@ -134,7 +134,7 @@ MyData에 관심이 있다면
 YouTube 에서 팔로우
 •	슬랙에 대한 활발한 토론에 참여
 
-[ 사진]
+[사진]
 
 #####이 게시물은 다음 MyData Global 활동가가 공동 작성했습니다.
 
@@ -147,4 +147,4 @@ YouTube 에서 팔로우
  Teemu Ropponen, @troppone
  Will Abramson, @wip_abramson , @wip_abramson
 
-[원본 링크](https://mydata.org/2019/08/09/taking-the-next-step/)
+[원본링크](https://mydata.org/2019/08/09/taking-the-next-step/)

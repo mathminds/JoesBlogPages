@@ -59,4 +59,4 @@ EU 일반 데이터 보호 규정 (GDPR) 시행 3 개월 후, 우리는 2 시간
 
 ######원본 저자: Michele Nati
 
-[원본 글 링크](https://medium.com/mydata/data-portability-2-0-is-yet-to-come-1c438c2a96c1)
+[원본링크](https://medium.com/mydata/data-portability-2-0-is-yet-to-come-1c438c2a96c1)

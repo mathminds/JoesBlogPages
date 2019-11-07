@@ -107,7 +107,4 @@ MyData Global에는 이미 6 개 대륙에있는 40 개 이상의 국가에서 9
 
 #####원본 저자: Teemu Ropponen
 
-[원본 링크](https://mydata.org/2019/09/16/why-mydata-2019-lets-work-together-towards-a-human-centered-data-economy/)
-
-
-
+[원본링크](https://mydata.org/2019/09/16/why-mydata-2019-lets-work-together-towards-a-human-centered-data-economy/)

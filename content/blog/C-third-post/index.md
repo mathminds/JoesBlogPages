@@ -96,6 +96,6 @@ NIIS는 X-Road 핵심 기술 개발을 책임지고 있으며 X-Road 및 MyData�
 
 ######원본 저자: Petteri Kivimäki
 
-[원본 글 링크](https://medium.com/mydata/x-road-as-a-platform-to-exchange-mydata-d1e9f250a89a)
+[원본링크](https://medium.com/mydata/x-road-as-a-platform-to-exchange-mydata-d1e9f250a89a)
 
 

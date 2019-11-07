@@ -56,4 +56,4 @@ description: '비 윤리적 관행에 대한 수많은 이론을 포함하여 �
 
 원본 저자: Jonny Schmid
 
-[원본 링크](https://medium.com/personaldata-io/my-gdpr-complaint-against-mtch-technology-services-139087d3de8a)
+[원본링크](https://medium.com/personaldata-io/my-gdpr-complaint-against-mtch-technology-services-139087d3de8a)

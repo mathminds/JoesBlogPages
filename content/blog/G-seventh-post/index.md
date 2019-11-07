@@ -63,4 +63,4 @@ Maurizio Arseni는 OffGridMe.Life의 창립자이며 MyData Geneva의 회원입�
 
 ######저자: Paul-Olivier Dehaye
 
-[원본 링크](https://medium.com/personaldata-io/addiction-and-technology-understanding-the-links-20062ed4f44c)
+[원본링크](https://medium.com/personaldata-io/addiction-and-technology-understanding-the-links-20062ed4f44c)
