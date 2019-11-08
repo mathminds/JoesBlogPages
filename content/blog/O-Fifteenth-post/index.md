@@ -1,13 +1,7 @@
 ---
-title: 
-date: "2019-09-23T10:40:32.169Z"
-description: '
+title: 15번째
+date: "2019-10-16T10:40:32.169Z"
+description: '이러한 질문에 답하기 위해 MyData Geneva 는 2019 년 10 월 8 일 Espace 3DD에서“Problematic Internet Use”에 관한 이벤트를 개최했습니다...'
 ---
-
-
-
-#####원본 저자: Paul-Olivier Dehaye
-
-[원본 링크](https://medium.com/personaldata-io/fashion-id-and-rights-of-data-subjects-60d02ffca17d)
 
 
